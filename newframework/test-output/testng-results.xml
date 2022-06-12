@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="8" total="22" passed="14" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-12T15:50:18 IST" name="Suite" finished-at="2022-06-12T15:50:18 IST" duration-ms="622">
+    <groups>
+      <group name="regression">
+        <method signature="Program1Test.dreschange()[pri:0, instance:com.crm.testScript.Program1Test@25fb8912]" name="dreschange" class="com.crm.testScript.Program1Test"/>
+        <method signature="Program1Test.menSection()[pri:0, instance:com.crm.testScript.Program1Test@25fb8912]" name="menSection" class="com.crm.testScript.Program1Test"/>
+        <method signature="program2Test.dress()[pri:0, instance:com.crm.testScript.program2Test@7c24b813]" name="dress" class="com.crm.testScript.program2Test"/>
+        <method signature="program2Test.menswear()[pri:0, instance:com.crm.testScript.program2Test@7c24b813]" name="menswear" class="com.crm.testScript.program2Test"/>
+        <method signature="Program1Test.dreschange()[pri:0, instance:com.crm.testScript.Program1Test@82de64a]" name="dreschange" class="com.crm.testScript.Program1Test"/>
+        <method signature="Program1Test.menSection()[pri:0, instance:com.crm.testScript.Program1Test@82de64a]" name="menSection" class="com.crm.testScript.Program1Test"/>
+        <method signature="program2Test.dress()[pri:0, instance:com.crm.testScript.program2Test@659499f1]" name="dress" class="com.crm.testScript.program2Test"/>
+        <method signature="program2Test.menswear()[pri:0, instance:com.crm.testScript.program2Test@659499f1]" name="menswear" class="com.crm.testScript.program2Test"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="Program1Test.addTstartt()[pri:0, instance:com.crm.testScript.Program1Test@25fb8912]" name="addTstartt" class="com.crm.testScript.Program1Test"/>
+        <method signature="Program1Test.menSection()[pri:0, instance:com.crm.testScript.Program1Test@25fb8912]" name="menSection" class="com.crm.testScript.Program1Test"/>
+        <method signature="program2Test.dress()[pri:0, instance:com.crm.testScript.program2Test@7c24b813]" name="dress" class="com.crm.testScript.program2Test"/>
+        <method signature="program2Test.menswear()[pri:0, instance:com.crm.testScript.program2Test@7c24b813]" name="menswear" class="com.crm.testScript.program2Test"/>
+        <method signature="Program1Test.addTstartt()[pri:0, instance:com.crm.testScript.Program1Test@82de64a]" name="addTstartt" class="com.crm.testScript.Program1Test"/>
+        <method signature="Program1Test.menSection()[pri:0, instance:com.crm.testScript.Program1Test@82de64a]" name="menSection" class="com.crm.testScript.Program1Test"/>
+        <method signature="program2Test.dress()[pri:0, instance:com.crm.testScript.program2Test@659499f1]" name="dress" class="com.crm.testScript.program2Test"/>
+        <method signature="program2Test.menswear()[pri:0, instance:com.crm.testScript.program2Test@659499f1]" name="menswear" class="com.crm.testScript.program2Test"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2022-06-12T15:50:18 IST" name="Test2" finished-at="2022-06-12T15:50:18 IST" duration-ms="622">
+      <class name="com.crm.testScript.program2Test">
+        <test-method is-config="true" signature="bclassconfig(java.lang.String)[pri:0, instance:com.crm.testScript.program2Test@659499f1]" started-at="2022-06-12T15:50:18 IST" name="bclassconfig" finished-at="2022-06-12T15:50:18 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bclassconfig -->
+        <test-method is-config="true" signature="bmethodconfig()[pri:0, instance:com.crm.testScript.program2Test@659499f1]" started-at="2022-06-12T15:50:18 IST" name="bmethodconfig" finished-at="2022-06-12T15:50:18 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmethodconfig -->
+        <test-method signature="addTocart()[pri:0, instance:com.crm.testScript.program2Test@659499f1]" started-at="2022-06-12T15:50:18 IST" name="addTocart" finished-at="2022-06-12T15:50:18 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTocart -->
+        <test-method is-config="true" signature="AfterMetthod()[pri:0, instance:com.crm.testScript.program2Test@659499f1]" started-at="2022-06-12T15:50:18 IST" name="AfterMetthod" finished-at="2022-06-12T15:50:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMetthod -->
+        <test-method is-config="true" signature="bmethodconfig()[pri:0, instance:com.crm.testScript.program2Test@659499f1]" started-at="2022-06-12T15:50:18 IST" name="bmethodconfig" finished-at="2022-06-12T15:50:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmethodconfig -->
+        <test-method signature="dress()[pri:0, instance:com.crm.testScript.program2Test@659499f1]" started-at="2022-06-12T15:50:18 IST" name="dress" finished-at="2022-06-12T15:50:18 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dress -->
+        <test-method is-config="true" signature="AfterMetthod()[pri:0, instance:com.crm.testScript.program2Test@659499f1]" started-at="2022-06-12T15:50:18 IST" name="AfterMetthod" finished-at="2022-06-12T15:50:18 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMetthod -->
+        <test-method is-config="true" signature="bmethodconfig()[pri:0, instance:com.crm.testScript.program2Test@659499f1]" started-at="2022-06-12T15:50:18 IST" name="bmethodconfig" finished-at="2022-06-12T15:50:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmethodconfig -->
+        <test-method signature="menswear()[pri:0, instance:com.crm.testScript.program2Test@659499f1]" started-at="2022-06-12T15:50:18 IST" name="menswear" finished-at="2022-06-12T15:50:18 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- menswear -->
+        <test-method is-config="true" signature="AfterMetthod()[pri:0, instance:com.crm.testScript.program2Test@659499f1]" started-at="2022-06-12T15:50:18 IST" name="AfterMetthod" finished-at="2022-06-12T15:50:18 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMetthod -->
+        <test-method is-config="true" signature="classconfig()[pri:0, instance:com.crm.testScript.program2Test@659499f1]" started-at="2022-06-12T15:50:18 IST" name="classconfig" finished-at="2022-06-12T15:50:18 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classconfig -->
+      </class> <!-- com.crm.testScript.program2Test -->
+      <class name="com.crm.testScript.Program1Test">
+        <test-method is-config="true" signature="bclassconfig(java.lang.String)[pri:0, instance:com.crm.testScript.Program1Test@82de64a]" started-at="2022-06-12T15:50:18 IST" name="bclassconfig" finished-at="2022-06-12T15:50:18 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bclassconfig -->
+        <test-method is-config="true" signature="bmethodconfig()[pri:0, instance:com.crm.testScript.Program1Test@82de64a]" started-at="2022-06-12T15:50:18 IST" name="bmethodconfig" finished-at="2022-06-12T15:50:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmethodconfig -->
+        <test-method signature="addTstartt()[pri:0, instance:com.crm.testScript.Program1Test@82de64a]" started-at="2022-06-12T15:50:18 IST" name="addTstartt" finished-at="2022-06-12T15:50:18 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTstartt -->
+        <test-method is-config="true" signature="AfterMetthod()[pri:0, instance:com.crm.testScript.Program1Test@82de64a]" started-at="2022-06-12T15:50:18 IST" name="AfterMetthod" finished-at="2022-06-12T15:50:18 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMetthod -->
+        <test-method is-config="true" signature="bmethodconfig()[pri:0, instance:com.crm.testScript.Program1Test@82de64a]" started-at="2022-06-12T15:50:18 IST" name="bmethodconfig" finished-at="2022-06-12T15:50:18 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmethodconfig -->
+        <test-method signature="dreschange()[pri:0, instance:com.crm.testScript.Program1Test@82de64a]" started-at="2022-06-12T15:50:18 IST" name="dreschange" finished-at="2022-06-12T15:50:18 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dreschange -->
+        <test-method is-config="true" signature="AfterMetthod()[pri:0, instance:com.crm.testScript.Program1Test@82de64a]" started-at="2022-06-12T15:50:18 IST" name="AfterMetthod" finished-at="2022-06-12T15:50:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMetthod -->
+        <test-method signature="menSection()[pri:0, instance:com.crm.testScript.Program1Test@82de64a]" started-at="2022-06-12T15:50:18 IST" name="menSection" finished-at="2022-06-12T15:50:18 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- menSection -->
+        <test-method is-config="true" signature="bmethodconfig()[pri:0, instance:com.crm.testScript.Program1Test@82de64a]" started-at="2022-06-12T15:50:18 IST" name="bmethodconfig" finished-at="2022-06-12T15:50:18 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmethodconfig -->
+        <test-method is-config="true" signature="AfterMetthod()[pri:0, instance:com.crm.testScript.Program1Test@82de64a]" started-at="2022-06-12T15:50:18 IST" name="AfterMetthod" finished-at="2022-06-12T15:50:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMetthod -->
+        <test-method is-config="true" signature="classconfig()[pri:0, instance:com.crm.testScript.Program1Test@82de64a]" started-at="2022-06-12T15:50:18 IST" name="classconfig" finished-at="2022-06-12T15:50:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classconfig -->
+      </class> <!-- com.crm.testScript.Program1Test -->
+      <class name="com.crm.testScript.ProgramTest">
+        <test-method is-config="true" signature="bsconfig()[pri:0, instance:com.crm.testScript.ProgramTest@27462a88]" started-at="2022-06-12T15:50:18 IST" name="bsconfig" finished-at="2022-06-12T15:50:18 IST" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bsconfig -->
+        <test-method is-config="true" signature="bclassconfig(java.lang.String)[pri:0, instance:com.crm.testScript.ProgramTest@27462a88]" started-at="2022-06-12T15:50:18 IST" name="bclassconfig" finished-at="2022-06-12T15:50:18 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bclassconfig -->
+        <test-method is-config="true" signature="bmethodconfig()[pri:0, instance:com.crm.testScript.ProgramTest@27462a88]" started-at="2022-06-12T15:50:18 IST" name="bmethodconfig" finished-at="2022-06-12T15:50:18 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmethodconfig -->
+        <test-method signature="dress()[pri:0, instance:com.crm.testScript.ProgramTest@27462a88]" started-at="2022-06-12T15:50:18 IST" name="dress" finished-at="2022-06-12T15:50:18 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dress -->
+        <test-method is-config="true" signature="AfterMetthod()[pri:0, instance:com.crm.testScript.ProgramTest@27462a88]" started-at="2022-06-12T15:50:18 IST" name="AfterMetthod" finished-at="2022-06-12T15:50:18 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMetthod -->
+        <test-method is-config="true" signature="classconfig()[pri:0, instance:com.crm.testScript.ProgramTest@27462a88]" started-at="2022-06-12T15:50:18 IST" name="classconfig" finished-at="2022-06-12T15:50:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classconfig -->
+        <test-method is-config="true" signature="classAfter()[pri:0, instance:com.crm.testScript.ProgramTest@27462a88]" started-at="2022-06-12T15:50:20 IST" name="classAfter" finished-at="2022-06-12T15:50:20 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classAfter -->
+      </class> <!-- com.crm.testScript.ProgramTest -->
+    </test> <!-- Test2 -->
+    <test started-at="2022-06-12T15:50:18 IST" name="Test1" finished-at="2022-06-12T15:50:18 IST" duration-ms="454">
+      <class name="com.crm.testScript.program2Test">
+        <test-method is-config="true" signature="bclassconfig(java.lang.String)[pri:0, instance:com.crm.testScript.program2Test@7c24b813]" started-at="2022-06-12T15:50:18 IST" name="bclassconfig" finished-at="2022-06-12T15:50:18 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bclassconfig -->
+        <test-method is-config="true" signature="bmethodconfig()[pri:0, instance:com.crm.testScript.program2Test@7c24b813]" started-at="2022-06-12T15:50:18 IST" name="bmethodconfig" finished-at="2022-06-12T15:50:18 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmethodconfig -->
+        <test-method signature="addTocart()[pri:0, instance:com.crm.testScript.program2Test@7c24b813]" started-at="2022-06-12T15:50:18 IST" name="addTocart" finished-at="2022-06-12T15:50:18 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTocart -->
+        <test-method is-config="true" signature="AfterMetthod()[pri:0, instance:com.crm.testScript.program2Test@7c24b813]" started-at="2022-06-12T15:50:18 IST" name="AfterMetthod" finished-at="2022-06-12T15:50:18 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMetthod -->
+        <test-method is-config="true" signature="bmethodconfig()[pri:0, instance:com.crm.testScript.program2Test@7c24b813]" started-at="2022-06-12T15:50:18 IST" name="bmethodconfig" finished-at="2022-06-12T15:50:18 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmethodconfig -->
+        <test-method signature="dress()[pri:0, instance:com.crm.testScript.program2Test@7c24b813]" started-at="2022-06-12T15:50:18 IST" name="dress" finished-at="2022-06-12T15:50:18 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dress -->
+        <test-method is-config="true" signature="AfterMetthod()[pri:0, instance:com.crm.testScript.program2Test@7c24b813]" started-at="2022-06-12T15:50:18 IST" name="AfterMetthod" finished-at="2022-06-12T15:50:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMetthod -->
+        <test-method is-config="true" signature="bmethodconfig()[pri:0, instance:com.crm.testScript.program2Test@7c24b813]" started-at="2022-06-12T15:50:18 IST" name="bmethodconfig" finished-at="2022-06-12T15:50:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmethodconfig -->
+        <test-method signature="menswear()[pri:0, instance:com.crm.testScript.program2Test@7c24b813]" started-at="2022-06-12T15:50:18 IST" name="menswear" finished-at="2022-06-12T15:50:18 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- menswear -->
+        <test-method is-config="true" signature="AfterMetthod()[pri:0, instance:com.crm.testScript.program2Test@7c24b813]" started-at="2022-06-12T15:50:18 IST" name="AfterMetthod" finished-at="2022-06-12T15:50:18 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMetthod -->
+        <test-method is-config="true" signature="classconfig()[pri:0, instance:com.crm.testScript.program2Test@7c24b813]" started-at="2022-06-12T15:50:18 IST" name="classconfig" finished-at="2022-06-12T15:50:18 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classconfig -->
+      </class> <!-- com.crm.testScript.program2Test -->
+      <class name="com.crm.testScript.Program1Test">
+        <test-method is-config="true" signature="bclassconfig(java.lang.String)[pri:0, instance:com.crm.testScript.Program1Test@25fb8912]" started-at="2022-06-12T15:50:18 IST" name="bclassconfig" finished-at="2022-06-12T15:50:18 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bclassconfig -->
+        <test-method is-config="true" signature="bmethodconfig()[pri:0, instance:com.crm.testScript.Program1Test@25fb8912]" started-at="2022-06-12T15:50:18 IST" name="bmethodconfig" finished-at="2022-06-12T15:50:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmethodconfig -->
+        <test-method signature="addTstartt()[pri:0, instance:com.crm.testScript.Program1Test@25fb8912]" started-at="2022-06-12T15:50:18 IST" name="addTstartt" finished-at="2022-06-12T15:50:18 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTstartt -->
+        <test-method is-config="true" signature="AfterMetthod()[pri:0, instance:com.crm.testScript.Program1Test@25fb8912]" started-at="2022-06-12T15:50:18 IST" name="AfterMetthod" finished-at="2022-06-12T15:50:18 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMetthod -->
+        <test-method is-config="true" signature="bmethodconfig()[pri:0, instance:com.crm.testScript.Program1Test@25fb8912]" started-at="2022-06-12T15:50:18 IST" name="bmethodconfig" finished-at="2022-06-12T15:50:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmethodconfig -->
+        <test-method signature="dreschange()[pri:0, instance:com.crm.testScript.Program1Test@25fb8912]" started-at="2022-06-12T15:50:18 IST" name="dreschange" finished-at="2022-06-12T15:50:18 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dreschange -->
+        <test-method is-config="true" signature="AfterMetthod()[pri:0, instance:com.crm.testScript.Program1Test@25fb8912]" started-at="2022-06-12T15:50:18 IST" name="AfterMetthod" finished-at="2022-06-12T15:50:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMetthod -->
+        <test-method signature="menSection()[pri:0, instance:com.crm.testScript.Program1Test@25fb8912]" started-at="2022-06-12T15:50:18 IST" name="menSection" finished-at="2022-06-12T15:50:18 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- menSection -->
+        <test-method is-config="true" signature="bmethodconfig()[pri:0, instance:com.crm.testScript.Program1Test@25fb8912]" started-at="2022-06-12T15:50:18 IST" name="bmethodconfig" finished-at="2022-06-12T15:50:18 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmethodconfig -->
+        <test-method is-config="true" signature="AfterMetthod()[pri:0, instance:com.crm.testScript.Program1Test@25fb8912]" started-at="2022-06-12T15:50:18 IST" name="AfterMetthod" finished-at="2022-06-12T15:50:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMetthod -->
+        <test-method is-config="true" signature="classconfig()[pri:0, instance:com.crm.testScript.Program1Test@25fb8912]" started-at="2022-06-12T15:50:18 IST" name="classconfig" finished-at="2022-06-12T15:50:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classconfig -->
+      </class> <!-- com.crm.testScript.Program1Test -->
+      <class name="com.crm.testScript.ProgramTest">
+        <test-method is-config="true" signature="bclassconfig(java.lang.String)[pri:0, instance:com.crm.testScript.ProgramTest@1e04fa0a]" started-at="2022-06-12T15:50:18 IST" name="bclassconfig" finished-at="2022-06-12T15:50:18 IST" duration-ms="17" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bclassconfig -->
+        <test-method is-config="true" signature="bmethodconfig()[pri:0, instance:com.crm.testScript.ProgramTest@1e04fa0a]" started-at="2022-06-12T15:50:18 IST" name="bmethodconfig" finished-at="2022-06-12T15:50:18 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmethodconfig -->
+        <test-method signature="dress()[pri:0, instance:com.crm.testScript.ProgramTest@1e04fa0a]" started-at="2022-06-12T15:50:18 IST" name="dress" finished-at="2022-06-12T15:50:18 IST" duration-ms="75" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dress -->
+        <test-method is-config="true" signature="AfterMetthod()[pri:0, instance:com.crm.testScript.ProgramTest@1e04fa0a]" started-at="2022-06-12T15:50:18 IST" name="AfterMetthod" finished-at="2022-06-12T15:50:18 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMetthod -->
+        <test-method is-config="true" signature="classconfig()[pri:0, instance:com.crm.testScript.ProgramTest@1e04fa0a]" started-at="2022-06-12T15:50:18 IST" name="classconfig" finished-at="2022-06-12T15:50:18 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classconfig -->
+      </class> <!-- com.crm.testScript.ProgramTest -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>

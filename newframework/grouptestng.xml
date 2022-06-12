@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<groups>
+<run>
+<include name="smoke"></include>
+<include name="regression"></include>
+</run>
+</groups>
+  <test thread-count="2" name="Test">
+    <classes>
+      <class name="com.crm.testScript.ProgramTest"/>
+      <class name="com.crm.testScript.Program1Test"/>
+      <class name="com.crm.testScript.program2Test"/>
+    </classes>
+  </test> <!-- Test -->
+  
+ 
+</suite> <!-- Suite -->
